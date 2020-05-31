@@ -16,12 +16,11 @@ This project aims to enlighten the above named entities on the available technol
 
 ## Usage
 ### App Url:
-Step 1: Goto the app url
-**To learn about technology, how it is changing the secular and the business world, it's advantages and more** 
+- **To learn about technology, how it is changing the secular and the business world, it's advantages and more <br>
 Visit the website and go to the blog section.
-**To find software solutions tailored for your business area**
+- **To find software solutions tailored for your business area <br>
 Access the web interface and use the available search tools
-**For technical assistance**
+- **For technical assistance <br>
 Fill the contact form 
 
 ## Authors             Github                Role
@@ -31,11 +30,6 @@ Ifara Samuel           farajayh              Member
 Samuel Tijani          thesamtj              Member
 
 ## Contributing
-If this project sounds interesting to you and you'd like to contribute, thank you!
-First, you can send a mail to buildforsdg@andela.com to indicate your interest, why you'd like to support and what forms of support you can bring to the table, but here are areas we think we'd need the most help in this project :
-1.  area one (e.g this app is about human trafficking and you need feedback on your roadmap and feature list from the private sector / NGOs)
-2.  area two (e.g you want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form)
-3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
 
 ## Acknowledgements
 
