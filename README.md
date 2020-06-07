@@ -23,11 +23,11 @@ Access the web interface and use the available search tools
 - **For technical assistance <br>
 Fill the contact form 
 
-## Authors             Github                Role
-Daisy Macharia         daisymacharia         Mentor
-John Jenyo             foreign1              TTL
-Ifara Samuel           farajayh              Member
-Samuel Tijani          thesamtj              Member
+## Authors     -        Github         -       Role
+Daisy Macharia     -    daisymacharia    -     Mentor<br>
+John Jenyo      -       foreign1       -       TTL<br>
+Ifara Joshua      -     farajayh       -       Member<br>
+Samuel Tijani     -     thesamtj       -       Member<br>
 
 ## Contributing
 
