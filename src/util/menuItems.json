@@ -1,0 +1,509 @@
+[
+  {
+    "label": "Energy",
+    "iconName": "group",
+    "children": [
+      {
+        "label": "Energy, Equipment and Services",
+        "iconName": "person",
+        "url": "michael-prentice",
+        "children": [
+          {
+            "label": "Oil & Gas Drilling",
+            "iconName": "star_rate",
+            "url": "material-design"
+          },
+          {
+            "label": "Oil & Gas Services",
+            "iconName": "star_rate",
+            "url": "material-design"
+          }
+        ]
+      },
+      {
+        "label": "Oil, Gas & Consumable Fuel",
+        "iconName": "person",
+        "url": "stephen-fluin",
+        "children": [
+          {
+            "label": "Integrated Oil & Gas",
+            "iconName": "star_rate",
+            "url": "what-up-web"
+          },
+          {
+            "label": "Oil & Gas Exploration & Production",
+            "iconName": "star_rate",
+            "url": "what-up-web"
+          },
+          {
+            "label": "Oil & Gas Refining & Marketing",
+            "iconName": "star_rate",
+            "url": "what-up-web"
+          },
+          {
+            "label": "Oil & Gas Storage & Transportation",
+            "iconName": "star_rate",
+            "url": "what-up-web"
+          },
+          {
+            "label": "Coal & Consumable Fuel",
+            "iconName": "star_rate",
+            "url": "what-up-web"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Materials",
+    "iconName": "speaker_notes",
+    "children": [
+      {
+        "label": "Materials",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Chemicals",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Chemicals",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Construction Materials",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Chemicals",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Containers & Packaging",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Chemicals",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Metals & Mining",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Chemicals",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Paper & Forest Products",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Chemicals",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Industrials",
+    "iconName": "feedback",
+    "children": [
+      {
+        "label": "Capital Goods",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Aerospace & Defense",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Aerospace & Defense",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Building Products",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Building Products",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Construction & Engineering",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Construction & Engineering",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Electrical Equipment",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Electrical Components & Equipment",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Heavy Electrical Equipment",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Industrial Conglomerates",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Industrial Conglomerates",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Machinery",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Construction Machinery & Heavy Trucks",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Agricultural & Farm Machinery",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Industrial Machinery",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Trading Companies & Distributors",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Trading Companies & Distributors",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Commercial & Professional Services",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Commercial Services & Supplies",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Commercial Printing",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Environmental & Facilities Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Office Services and Supplies",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Diversified Support Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Security & Alarm Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Professional Services",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Human Resource & Employment Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Research & Consulting Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Transportation",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Air Freight & Logistics",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Air Freight & Logistics",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Airlines",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Airlines",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Marine",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Marine",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Road & Rail",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Railroads",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Trucking",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Transportation Infrastructure",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Airport Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Highways & Railtracks",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Marine Ports & Services",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Consumer Staples",
+    "iconName": "feedback",
+    "children": [
+      {
+        "label": "Food & Staples Retailing",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Food & Staples Retailing",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Drug Retail",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Food Distributors",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Food Retail",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Hypermarkets & Super Centers",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Food, Beverage & Tobacco",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Beverages",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Brewers",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Distillers & Vintners",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Soft Drinks",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Food Products",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Agricultural Products",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Packaged Foods & Meats",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          },
+          {
+            "label": "Tobacco",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Tobacco",
+                "iconName": "star_rate",
+                "url": "material-design"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Household & Personal Products",
+        "iconName": "star_rate",
+        "url": "material-design",
+        "children": [
+          {
+            "label": "Household Products",
+            "iconName": "star_rate",
+            "url": "material-design",
+            "children": [
+              {
+                "label": "Household Products",
+                "iconName": "star_rate",
+                "url": "material-design"
+              },
+              {
+                "label": "Personal Products",
+                "iconName": "star_rate",
+                "url": "material-design",
+                "children": [
+                  {
+                    "label": "Personal Products",
+                    "iconName": "star_rate",
+                    "url": "material-design"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
